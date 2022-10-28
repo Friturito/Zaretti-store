@@ -56,8 +56,8 @@ const plugins = [
 
 module.exports = {
   projectConfig: {
-    redis_url: //default:Ld0YP7mxO1u1w8mdoU46@containers-us-west-25.railway.app:6999,
-    database_url: //postgres:kwi07lAi8GFRGixYrH40@containers-us-west-78.railway.app:5950/railway,
+    redis_url: "//default:Ld0YP7mxO1u1w8mdoU46@containers-us-west-25.railway.app:6999",
+    database_url: "//postgres:kwi07lAi8GFRGixYrH40@containers-us-west-78.railway.app:5950/railway",
     database_type: "postgres",
     store_cors: STORE_CORS,
     admin_cors: ADMIN_CORS,
